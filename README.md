@@ -8,9 +8,9 @@
 ![Paper](https://img.shields.io/badge/IEEE%20SysCon-2026-00629B)
 
 > 📄 **Published:** IEEE International Systems Conference (SysCon) 2026 · DOI: [10.1109/SysCon66367.2026.11503483](https://doi.org/10.1109/SysCon66367.2026.11503483)
-> 📑 An accepted author manuscript is included in this repository ([manuscript.pdf](manuscript.pdf)).
 
-![Framework overview](docs/framework_overview.png)
+
+
 
 ## Overview
 
