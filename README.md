@@ -10,7 +10,7 @@
 > 📄 **Published:** IEEE International Systems Conference (SysCon) 2026 · DOI: [10.1109/SysCon66367.2026.11503483](https://doi.org/10.1109/SysCon66367.2026.11503483)
 
 
-
+![Framework overview](docs/framework_overview.png)
 
 ## Overview
 
